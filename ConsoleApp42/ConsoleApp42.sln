@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Affairs", "ConsoleApp42\Affairs.csproj", "{22977FB5-592A-40F5-8C44-5414EDEFEE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22977FB5-592A-40F5-8C44-5414EDEFEE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22977FB5-592A-40F5-8C44-5414EDEFEE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22977FB5-592A-40F5-8C44-5414EDEFEE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22977FB5-592A-40F5-8C44-5414EDEFEE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AED1D92-773E-481C-B8E8-4FD15E7DAB4F}
+	EndGlobalSection
+EndGlobal

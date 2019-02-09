@@ -1,0 +1,7 @@
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe.config
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.pdb
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\Affairs.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\Affairs.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.exe
+C:\Users\yulia\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.pdb
